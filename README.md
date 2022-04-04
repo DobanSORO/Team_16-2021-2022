@@ -13,13 +13,11 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: SORO Doban Inza
 
-  - Student 2: ❔
+  - Student 2: SOUMAHORO Dao Pascal
 
-  - Student 3: ❔
-
-  - Student 4: ❔
+  - Student 3: TAKI Mariam
 
 ## Getting Started
 
