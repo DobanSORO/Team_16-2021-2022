@@ -11,7 +11,7 @@
 
 All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnbXDubI1lBR6j4MNshkQwlGT3yl5JXo6oIBM/edit?usp=sharing)
 
-<!-- 🖥 Teams meeting URL:https://teams.microsoft.com/l/channel/19%3aYeS8oPZvDoYtWOhlw7b-Q0tcR8POnAAJgLprG_Ge1tA1%40thread.tacv2/G%25C3%25A9n%25C3%25A9ral?groupId=0dcdcc40-1404-409f-bb56-456a9c1bc2e2&tenantId=39626157-a047-4689-87a2-6fa645cb5cb7
+-- 🖥 Teams meeting URL:https://teams.microsoft.com/l/channel/19%3aYeS8oPZvDoYtWOhlw7b-Q0tcR8POnAAJgLprG_Ge1tA1%40thread.tacv2/G%25C3%25A9n%25C3%25A9ral?groupId=0dcdcc40-1404-409f-bb56-456a9c1bc2e2&tenantId=39626157-a047-4689-87a2-6fa645cb5cb7
 
   - Student 1: SORO Doban Inza
 
